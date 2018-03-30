@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MySanGuo</string>
+    <string name="loading">Loading...</string>
+    <string name="load">载入</string>
+    <string name="setting">环境设置</string>
+    <string name="teaching">游戏教学</string>
+    <string name="new_game">新建游戏</string>
+    <string name="load_game">载入游戏</string>
 </resources>
